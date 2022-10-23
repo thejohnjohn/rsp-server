@@ -1,0 +1,8 @@
+{
+  "name": "rsp-server",
+  "type": "module",
+  "packageManager": "yarn@3.2.4",
+  "dependencies": {
+    "socket.io": "^4.5.3"
+  }
+}
