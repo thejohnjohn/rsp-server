@@ -1,1 +1,1 @@
-# rsp-server
+# Rock, Paper, Scissors (Server Side)
