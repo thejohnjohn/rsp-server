@@ -2,7 +2,17 @@
   "name": "rsp-server",
   "type": "module",
   "packageManager": "yarn@3.2.4",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
   "dependencies": {
-    "socket.io": "^4.5.3"
+    "express": "^4.18.2",
+    "node-redis": "^0.1.7",
+    "redis": "^4.5.0",
+    "socket.io": "^4.5.3",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }
